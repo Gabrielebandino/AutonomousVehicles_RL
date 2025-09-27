@@ -1,8 +1,8 @@
 # Autonomous Vehicle Navigation with Reinforcement Learning 🚗🧠
 
-[![License](https://img.shields.io/github/license/Gabrielebandino/AutonomousRLNavigation)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/Gabrielebandino/AutonomousRLNavigation)](https://github.com/Gabrielebandino/AutonomousRLNavigation/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/Gabrielebandino/AutonomousRLNavigation)](https://github.com/Gabrielebandino/AutonomousRLNavigation/issues)
+[![License](https://img.shields.io/github/license/Gabrielebandino/AutonomousVehicles_RL)](LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Gabrielebandino/AutonomousVehicles_RL)](https://github.com/Gabrielebandino/AutonomousVehicles_RL/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Gabrielebandino/AutonomousVehicles_RL)](https://github.com/Gabrielebandino/AutonomousVehicles_RL/issues)
 
 A Unity + ML-Agents simulator that trains a self-driving agent with Reinforcement Learning (RL) to follow procedurally generated tracks, manage speed, and avoid leaving the road. The focus is on core driving skills (steering + speed control) in a controllable environment.
 
