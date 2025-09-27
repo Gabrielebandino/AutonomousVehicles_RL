@@ -9,6 +9,7 @@ A Unity + ML-Agents simulator that trains a self-driving agent with Reinforcemen
 ---
 
 ## 🎥 Demo
+Click to watch
 
 [![Watch the demo](https://img.youtube.com/vi/j_lbxTSV7i8/0.jpg)](https://youtu.be/j_lbxTSV7i8)
 
