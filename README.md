@@ -6,9 +6,12 @@
 
 A Unity + ML-Agents simulator that trains a self-driving agent with Reinforcement Learning (RL) to follow procedurally generated tracks, manage speed, and avoid leaving the road. The focus is on core driving skills (steering + speed control) in a controllable environment.
 
-<!-- If you provide a Colab link, add it here:
-If you prefer Colab, [open the notebook](YOUR_COLAB_LINK).
--->
+---
+
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/j_lbxTSV7i8/0.jpg)](https://youtu.be/j_lbxTSV7i8)
+
 
 ---
 
